@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jun 28, 2021 at 06:46 AM
+-- Generation Time: Jun 30, 2021 at 07:38 AM
 -- Server version: 10.4.18-MariaDB
 -- PHP Version: 8.0.3
 
@@ -40,11 +40,11 @@ CREATE TABLE `mahasiswa` (
 --
 
 INSERT INTO `mahasiswa` (`id`, `gambar`, `nama`, `prodi`, `fakultas`) VALUES
-(1, 'dena.jpeg', 'Dena Arimby', 'Matematika', 'Pendidikan'),
-(2, 'novan.jpeg', 'Novan Alamsyah', 'Sosiologi', 'Sosial'),
-(3, 'lily.jpeg', 'Nikmatul Laili', 'Agribisnis', 'Pertanian'),
-(4, 'iqbal.jpeg', 'Iqbal Mahesur', 'Industri', 'Teknik'),
-(5, 'rika.jpeg', 'Arikatul Jennah', 'Manajemen', 'Ekonomi');
+(1, 'user-1.jpeg', 'Dena Arimby', 'Matematika', 'Pendidikan'),
+(2, 'user-2.jpeg', 'Novan Alamsyah', 'Sosiologi', 'Sosial'),
+(3, 'user-3.jpeg', 'Nikmatul Laili', 'Agribisnis', 'Pertanian'),
+(4, 'user-4.jpeg', 'Iqbal Mahesur', 'Industri', 'Teknik'),
+(5, 'user-5.jpeg', 'Arikatul Jennah', 'Manajemen', 'Ekonomi');
 
 -- --------------------------------------------------------
 
